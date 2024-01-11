@@ -25,7 +25,7 @@ flutter:
 
   assets:
   - assets/images/
-
+//All fonts on pub.dev official websit
   fonts:
   - family: Spartan MB
     fonts:
