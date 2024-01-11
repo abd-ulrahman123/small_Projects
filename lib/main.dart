@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:weather_clima/screens/loading_screen.dart';
-
+//Application on using open Apis
 void main() {
   runApp(const MainApp());
 }
