@@ -1,1 +1,1 @@
-//inspector would involve with having models class or only 1 class include them together
+//
